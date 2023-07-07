@@ -1,4 +1,5 @@
-What I learned from this project At the end of this project you are expected to be able to explain to anyone, without the help of Google: What Is “The Shell”? The Shell delivers keyboard inputs to the OS to perform. They were the precursors to GUIs and bash is one of the most popular.
+#!/bin/bash
+ What I learned from this project At the end of this project you are expected to be able to explain to anyone, without the help of Google: What Is “The Shell”? The Shell delivers keyboard inputs to the OS to perform. They were the precursors to GUIs and bash is one of the most popular.
 
 What is the difference between a terminal and a shell? Shell processes commands and returns output. Terminals run shell programs.
 
